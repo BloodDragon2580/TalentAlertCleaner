@@ -1,0 +1,10 @@
+## Interface: 120001
+## Title: |cffd6266cTalentAlertCleaner|r
+## Version: 1.0
+## Notes: Hides the "You have unspent Talent points" alert/pulse.
+## Author: BloodDragon2580
+## IconTexture: Interface\AddOns\TalentAlertCleaner\Media\Texture\logo
+
+embeds.xml
+
+TalentAlertCleaner.lua
